@@ -5,10 +5,10 @@
 ### منصة تعليمية يبنيها الطلاب
 
 <p align="center">
-  <img src="https://img.shields.io/badge/مجاني-100%25-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/بدون_إعلانات-نعم-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/مفتوح_المصدر-MIT-f59e0b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/صُنع_في-مصر-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Free-100%25-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ad--Free-Yes-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-MIT-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made_in-Egypt-ef4444?style=for-the-badge" />
 </p>
 
 **فهمة** منصة تعليمية مصرية مجانية وبدون إعلانات، هدفها تحويل الملخصات والمعلومات الدراسية المتناثرة بين جروبات واتساب وتليجرام وفيسبوك وملفات الطلاب إلى **مكتبة تعليمية منظمة، قابلة للبحث، ويشارك الطلاب أنفسهم في بنائها وتحسينها**.
@@ -71,8 +71,8 @@
 
 - **الواجهة الأمامية:** Next.js + TypeScript + Tailwind CSS
 - **قاعدة البيانات:** Supabase (PostgreSQL)
-- **التخزين:** Telegram Bot API 
-- **الاستضافة:** Vercel 
+- **التخزين:** Telegram Bot API
+- **الاستضافة:** Vercel
 - **المراجعة:** نظام طوابير بسيط مع دعم `retry_after` لحدود تليجرام
 
 ---
