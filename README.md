@@ -71,8 +71,8 @@
 
 - **الواجهة الأمامية:** Next.js + TypeScript + Tailwind CSS
 - **قاعدة البيانات:** Supabase (PostgreSQL)
-- **التخزين:** Telegram Bot API + Cloudflare R2
-- **الاستضافة:** Vercel + Cloudflare Workers
+- **التخزين:** Telegram Bot API 
+- **الاستضافة:** Vercel 
 - **المراجعة:** نظام طوابير بسيط مع دعم `retry_after` لحدود تليجرام
 
 ---
